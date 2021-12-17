@@ -1,0 +1,50 @@
+<deck version="0.8">
+	<meta>
+		<game>Maple Story</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="janitorsmop">Janitor&apos;s Mop</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="finalattack">Final Attack: Bow</name><set>Set2</set></card>
+		<card><name id="papapixiestimewarp">Papa Pixie&apos;s Time Warp</name><set>Set2</set></card>
+		<card><name id="papapixiestimewarp">Papa Pixie&apos;s Time Warp</name><set>Set2</set></card>
+		<card><name id="papapixiestimewarp">Papa Pixie&apos;s Time Warp</name><set>Set2</set></card>
+		<card><name id="papapixiestimewarp">Papa Pixie&apos;s Time Warp</name><set>Set2</set></card>
+		<card><name id="doombringer">Doombringer</name><set>Set1</set></card>
+		<card><name id="doombringer">Doombringer</name><set>Set1</set></card>
+		<card><name id="doombringer">Doombringer</name><set>Set1</set></card>
+		<card><name id="doombringer">Doombringer</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="watchhog">Watch Hog</name><set>Set3</set></card>
+		<card><name id="nightghost">Nightghost</name><set>Set4</set></card>
+		<card><name id="nightghost">Nightghost</name><set>Set4</set></card>
+		<card><name id="nightghost">Nightghost</name><set>Set4</set></card>
+		<card><name id="nightghost">Nightghost</name><set>Set4</set></card>
+		<card><name id="8armsofzakum">8 Arms of Zakum</name><set>Set5</set></card>
+		<card><name id="8armsofzakum">8 Arms of Zakum</name><set>Set5</set></card>
+		<card><name id="8armsofzakum">8 Arms of Zakum</name><set>Set5</set></card>
+		<card><name id="8armsofzakum">8 Arms of Zakum</name><set>Set5</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="diamonddagger">Diamond Dagger</name><set>Set4</set></card>
+		<card><name id="mortalblow">Mortal Blow</name><set>Set3</set></card>
+		<card><name id="mortalblow">Mortal Blow</name><set>Set3</set></card>
+		<card><name id="mortalblow">Mortal Blow</name><set>Set3</set></card>
+		<card><name id="mortalblow">Mortal Blow</name><set>Set3</set></card>
+	</superzone>
+	<superzone name="Starting">
+		<card><name id="ivan">Ivan</name><set>Set1</set></card>
+	</superzone>
+</deck>

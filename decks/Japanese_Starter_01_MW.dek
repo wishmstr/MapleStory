@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game></game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="thunderbolt">Thunder Bolt</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="darkaxestump">Dark Axe Stump</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="darkaxestump">Dark Axe Stump</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="energybolt">Energy Bolt</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="energybolt">Energy Bolt</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="energybolt">Energy Bolt</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jrnecki">Jr. Necki</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jrnecki">Jr. Necki</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jrnecki">Jr. Necki</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lioner">Lioner</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lioner">Lioner</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="magicclaw">Magic Claw</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="magicclaw">Magic Claw</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="octopus">Octopus</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="octopus">Octopus</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="peachmonkey">Peach Monkey</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="peachmonkey">Peach Monkey</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sidequest">Side Quest</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="zetagray">Zeta Gray</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="zetagray">Zeta Gray</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="yetipepe">Yeti and Pepe</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="battleshield">Battle Shield</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="battleshield">Battle Shield</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="fireboar">Fire Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="fireboar">Fire Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="fireboar">Fire Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="grizzly">Grizzly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jryeti">Jr. Yeti</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jryeti">Jr. Yeti</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="pepe">Pepe</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sentinel">Sentinel</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sentinel">Sentinel</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sentinel">Sentinel</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="theninedragons">The Nine Dragons</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="theninedragons">The Nine Dragons</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="wildboar">Wild Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="wildboar">Wild Boar</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+	<superzone name="Starting">
+		<card>
+			<name id="maya">Maya</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sherman">Sherman</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+</deck>

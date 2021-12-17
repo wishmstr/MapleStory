@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game></game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="drake">Drake</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="arrowblow">Arrow Blow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="arrowblow">Arrow Blow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="arrowblow">Arrow Blow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="curseeye">Curse Eye</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="curseeye">Curse Eye</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="curseeye">Curse Eye</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greentrixter">Green Trixter</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greentrixter">Green Trixter</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="hornedmushroom">Horned Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="hornedmushroom">Horned Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="hornedmushroom">Horned Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jrboogie">Jr. Boogie</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jrboogie">Jr. Boogie</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="soularrow">Soul Arrow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="soularrow">Soul Arrow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="stirge">Stirge</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="stirge">Stirge</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="stirge">Stirge</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="tweeter">Tweeter</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="bloodslain">Blood Slain</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="cico">Cico</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="cico">Cico</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="coconutknife">Coconut Knife</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="coconutknife">Coconut Knife</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="croco">Croco</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="croco">Croco</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krappy">Krappy</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krappy">Krappy</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krip">Krip</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krip">Krip</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="kumbithrowingstar">Kumbi Throwing Star</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="kumbithrowingstar">Kumbi Throwing Star</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lorang">Lorang</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lorang">Lorang</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lorang">Lorang</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="propelly">Propelly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="propelly">Propelly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="redsnail">Red Snail</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="redsnail">Red Snail</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+	<superzone name="Starting">
+		<card>
+			<name id="nixie">Nixie</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="ivan">Ivan</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+</deck>

@@ -1,0 +1,27 @@
+<deck version="0.8">
+	<meta>
+		<game>Maple Story</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="starblade">Starblade</name><set>Set1</set></card>
+		<card><name id="darkshadow">Dark Shadow</name><set>Set1</set></card>
+		<card><name id="darkshadow">Dark Shadow</name><set>Set1</set></card>
+		<card><name id="darkshadow">Dark Shadow</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="goldencrow">Golden Crow</name><set>Set1</set></card>
+		<card><name id="rednight">Red Night</name><set>Set1</set></card>
+		<card><name id="rednight">Red Night</name><set>Set1</set></card>
+		<card><name id="rednight">Red Night</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="theninedragons">The Nine Dragons</name><set>Set1</set></card>
+		<card><name id="emeraldearrings">Emerald Earrings</name><set>Set1</set></card>
+	</superzone>
+</deck>

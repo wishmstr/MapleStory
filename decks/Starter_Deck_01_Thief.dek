@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE deck SYSTEM "http://www.lackeyccg.com/deck.dtd">
+<deck version="0.8">
+	<meta>
+		<title></title>
+		<author></author>
+		<email></email>
+		<date></date>
+		<game></game>
+		<format></format>
+		<note></note>
+	</meta>
+	<superzone name="Deck">
+		<card>
+			<name id="cico">Cico</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="coconutknife">Coconut Knife</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="coconutknife">Coconut Knife</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="croco">Croco</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="darkshadow">Dark Shadow</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="emeraldearrings">Emerald Earrings</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krappy">Krappy</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krappy">Krappy</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="krip">Krip</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lorang">Lorang</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="lorang">Lorang</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="propelly">Propelly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="propelly">Propelly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="redsnail">Red Snail</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="redsnail">Red Snail</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="redsnail">Red Snail</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="battleshield">Battle Shield</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="blockgolem">Block Golem</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="fireboar">Fire Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="fireboar">Fire Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="greenmushroom">Green Mushroom</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="grizzly">Grizzly</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="jryeti">Jr. Yeti</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="pepe">Pepe</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="ribbonpig">Ribbon Pig</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sentinel">Sentinel</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="theninedragons">The Nine Dragons</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="theninedragons">The Nine Dragons</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="wildboar">Wild Boar</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="yetipepe">Yeti and Pepe</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+	<superzone name="Starting">
+		<card>
+			<name id="ivan">Ivan</name>
+			<set>Set1</set>
+		</card>
+		<card>
+			<name id="sherman">Sherman</name>
+			<set>Set1</set>
+		</card>
+	</superzone>
+</deck>

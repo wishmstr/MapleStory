@@ -1,0 +1,2 @@
+RECENTDECK0:Starter_Deck_03_Magician.dek
+RECENTDECK1:MS_Cheese.dek

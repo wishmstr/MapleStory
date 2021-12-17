@@ -1,0 +1,14 @@
+MapleStory	12-11-21
+plugins/MapleStory/plugininfo.txt	http://illidan.servebeer.com/MapleStory/plugininfo.txt	169851
+plugins/MapleStory/pluginpreferences.txt	http://illidan.servebeer.com/MapleStory/pluginpreferences.txt	191540
+plugins/MapleStory/sets/carddata.txt	http://illidan.servebeer.com/MapleStory/sets/carddata.txt	7105475
+plugins/MapleStory/sets/setimages/general/cardback.jpg	http://illidan.servebeer.com/MapleStory/sets/setimages/general/cardback.jpg	1325763
+plugins/MapleStory/sets/setimages/general/spawned.jpg	http://illidan.servebeer.com/MapleStory/sets/setimages/general/spawned.jpg	-12880
+plugins/MapleStory/CardImageURLs1.txt	http://illidan.servebeer.com/MapleStory/CardImageURLs1.txt	3373296
+plugins/MapleStory/decks/Japanese_Starter_01_MW.dek	http://illidan.servebeer.com/MapleStory/decks/Japanese_Starter_01_MW.dek	275541
+plugins/MapleStory/decks/Japanese_Starter_02_BT.dek	http://illidan.servebeer.com/MapleStory/decks/Japanese_Starter_02_BT.dek	269668
+plugins/MapleStory/decks/Starter_Deck_01_Thief.dek	http://illidan.servebeer.com/MapleStory/decks/Starter_Deck_01_Thief.dek	225903
+plugins/MapleStory/decks/Starter_Deck_02_Bowman.dek	http://illidan.servebeer.com/MapleStory/decks/Starter_Deck_02_Bowman.dek	230744
+plugins/MapleStory/decks/Starter_Deck_03_Magician.dek	http://illidan.servebeer.com/MapleStory/decks/Starter_Deck_03_Magician.dek	226349
+CardURLFiles:
+CardImageURLs1.txt

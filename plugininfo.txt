@@ -1,0 +1,63 @@
+<plugin>
+
+<playerstat><label>Level</label><initialvalue>0</initialvalue></playerstat>
+<playerstat><label>HP</label><initialvalue>0</initialvalue></playerstat>
+
+<deckzone>
+     <label>Deck</label>
+     <shuffle>yes</shuffle>
+</deckzone>
+
+<deckzone>
+     <label>Starting</label>
+</deckzone>
+
+<gamezone>
+     <label>Hand</label>
+     <visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<gamezone>
+     <label>Deck</label>
+</gamezone>
+
+<gamezone>
+     <label>Discard</label>
+     <visibletoowner>yes</visibletoowner>
+     <visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+     <label>Starting</label>
+     <visibletoowner>yes</visibletoowner>
+</gamezone>
+
+
+<phase><label>Level Up</label></phase>
+<phase><label>Do Character Actions</label></phase>
+<phase><label>Attack With Your Monsters</label></phase>
+
+<generalfunction><label>Draw</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind></generalfunction>
+<generalfunction><label>Spawn Card</label><kind>SPAWNCARD</kind></generalfunction>
+<generalfunction>
+<label>Feed Pet</label><kind>TRANSFERCARD</kind>
+<sourceowner>0</sourceowner>
+<sourcegamezone>Deck</sourcegamezone>
+<destinationowner>table</destinationowner>
+<destinationposition>facedown</destinationposition>
+<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+
+
+<cardfunction><label>Rotate</label><kind>MAKERIGHT180DEGREES</kind></cardfunction>
+<cardfunction><label>Green+1</label><kind>ADDCOUNTER</kind><color>green</color><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Green-1</label><kind>REMOVECOUNTERGREEN</kind><color>green</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Red+1</label><kind>ADDCOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Red-1</label><kind>REMOVECOUNTER</kind><color>red</color><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Ready</label><kind>MAKERIGHT0DEGREES</kind></cardfunction>
+
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind><value>no</value></definition>
+
+</plugin>
