@@ -11,5 +11,5 @@ plugins/MapleStory/decks/Starter_Deck_01_Thief.dek	https://raw.githubusercontent
 plugins/MapleStory/decks/Starter_Deck_02_Bowman.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_02_Bowman.dek	230744
 plugins/MapleStory/decks/Starter_Deck_03_Magician.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_03_Magician.dek	226349
 plugins/MapleStory/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/defaultchat.txt	9451
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt
