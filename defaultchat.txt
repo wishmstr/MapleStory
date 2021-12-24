@@ -1,0 +1,20 @@
+!Level Up!/player stat1 + 10;/player stat2 +20
+!Draw 5!/draw 5
+!Draw 6!/draw 6
+!Flip Coin!/flip
+Good game.
+shucks
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
