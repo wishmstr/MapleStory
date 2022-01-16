@@ -1,5 +1,5 @@
 CardImageURLs:	
-promo/gamechampion.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Promo/gamechampion.jpg
+promo/gamechampion.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/promo/gamechampion.jpg
 set1/01_adback.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set1/01_adback.jpg
 set1/01_tpc.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set1/01_tpc.jpg
 set1/01_zlp.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set1/01_zlp.jpg
