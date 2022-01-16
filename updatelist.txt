@@ -1,0 +1,15 @@
+MapleStory	12-24-21
+plugins/MapleStory/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/plugininfo.txt	204030
+plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	293734
+plugins/MapleStory/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/carddata.txt	7105676
+plugins/MapleStory/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/general/cardback.jpg	1325763
+plugins/MapleStory/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/general/spawned.jpg	-12880
+plugins/MapleStory/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/CardImageURLs1.txt	4075800
+plugins/MapleStory/decks/Japanese_Starter_01_MW.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Japanese_Starter_01_MW.dek	275541
+plugins/MapleStory/decks/Japanese_Starter_02_BT.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Japanese_Starter_02_BT.dek	269668
+plugins/MapleStory/decks/Starter_Deck_01_Thief.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_01_Thief.dek	225903
+plugins/MapleStory/decks/Starter_Deck_02_Bowman.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_02_Bowman.dek	230744
+plugins/MapleStory/decks/Starter_Deck_03_Magician.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_03_Magician.dek	226349
+plugins/MapleStory/defaultchat.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/defaultchat.txt	13251
+CardURLFiles:
+CardImageURLs1.txt
