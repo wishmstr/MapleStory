@@ -5,8 +5,8 @@
 Good game.
 shucks
 .
-.
-.
+!10 Dmg!/player stat2 -10
+!100 Dmg!/player stat2 -100
 .
 .
 .
