@@ -1,4 +1,4 @@
-MapleStory	4-16-22
+MapleStory	04-16-22
 plugins/MapleStory/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/plugininfo.txt	208486
 plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	296699
 plugins/MapleStory/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/carddata.txt	7105678
