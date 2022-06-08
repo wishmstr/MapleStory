@@ -1,6 +1,6 @@
 <version>
 
-<lastupdateYYMMDD>220607</lastupdateYYMMDD>
+<lastupdateYYMMDD>220608</lastupdateYYMMDD>
 <quality>HIGH</quality>
 <versionurl>https://raw.githubusercontent.com/wishmstr/MapleStory/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/wishmstr/MapleStory/main/updatelist.txt</updateurl>

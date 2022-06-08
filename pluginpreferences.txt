@@ -1,9 +1,10 @@
 <pluginpreferences>
 
+<lastversionupdate>220607</lastversionupdate>
 <counterstyleimagesizetextoverimage>25</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
-<canned>!Level Up!/player stat1 + 10;/player stat2 +20</canned>
+<canned>!Level Up!/player stat1 + 10;/player stat2 +20;/f5</canned>
 <canned>!Draw 5!/draw 5</canned>
 <canned>!Draw 6!/draw 6</canned>
 <canned>!Flip Coin!/flip</canned>

@@ -1,0 +1,103 @@
+<packdefinitions version="1.0">
+
+<pack>
+<packtitle>Set 1 Booster</packtitle>
+<packimage>pack</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set1</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+<pack>
+<packtitle>Set 2 Booster</packtitle>
+<packimage>set2</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set2</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+<pack>
+<packtitle>Set 3 Booster</packtitle>
+<packimage>set3</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set3</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+<pack>
+<packtitle>Set 4 Booster</packtitle>
+<packimage>set4</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set4</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+<pack>
+<packtitle>Set 5 Booster</packtitle>
+<packimage>set5</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set5</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+</packdefinitions>

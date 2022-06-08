@@ -50,6 +50,7 @@
 // 3 - Spawn a Card
 // 4 - Feed Pet
 // 5 - Next Phase
+// 6 - Ready All Cards
 
 <generalfunction>
 	<label>Draw</label>
@@ -81,6 +82,12 @@
 	<kind>NEXTPHASE</kind>
 </generalfunction>
 
+<generalfunction>
+	<label>Ready All</label>
+	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
 //-----Card Functions-----//
 // 1 - Rotate Card 180 Degrees
 // 2 - Rotate Card 90 Degrees to the Right
@@ -88,7 +95,6 @@
 // 4 - Green Counter -1
 // 5 - Red Counter +1
 // 6 - Red Counter -1
-// 7 - Ready All Cards
 
 <cardfunction>
 	<label>Rotate</label>
@@ -129,13 +135,6 @@
 	<color>red</color>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
-
-<cardfunction>
-	<label>Ready All</label>
-	<kind>ALLYOURCARDSMAKERIGHT0DEGREES</kind>
-	<includeasbutton>yes</includeasbutton>
-</cardfunction>
-
 
 //-----Definitions-----//
 
