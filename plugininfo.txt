@@ -95,6 +95,7 @@
 // 4 - Green Counter -1
 // 5 - Red Counter +1
 // 6 - Red Counter -1
+// 7 - Ready Card 0 Degrees
 
 <cardfunction>
 	<label>Rotate</label>
@@ -133,6 +134,12 @@
 <cardfunction><label>Red -1</label>
 	<kind>REMOVECOUNTER</kind>
 	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<cardfunction>
+	<label>Ready</label>
+	<kind>MAKERIGHT0DEGREES</kind>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 
