@@ -1,4 +1,4 @@
-MapleStory	06-30-22
+MapleStory	06-29-22
 plugins/MapleStory/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/plugininfo.txt	266970
 plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	305129
 plugins/MapleStory/version.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/version.txt	33065
