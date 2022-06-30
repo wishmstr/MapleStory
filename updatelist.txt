@@ -1,6 +1,6 @@
 MapleStory	06-29-22
 plugins/MapleStory/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/plugininfo.txt	266970
-plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	305122
+plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	305129
 plugins/MapleStory/version.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/version.txt	33073
 plugins/MapleStory/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/carddata.txt	7105678
 plugins/MapleStory/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/general/cardback.jpg	1325763
@@ -23,5 +23,5 @@ plugins/MapleStory/packs/set2.jpg	https://raw.githubusercontent.com/wishmstr/Map
 plugins/MapleStory/packs/set3.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set3.jpg	150492
 plugins/MapleStory/packs/set4.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set4.jpg	151424
 plugins/MapleStory/packs/set5.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set5.jpg	143578
-CardImageURLs:
+CardURLFiles:
 CardImageURLs1.txt

@@ -89,22 +89,29 @@
 </generalfunction>
 
 //-----Card Functions-----//
-// 1 - Rotate Card 180 Degrees
+// 1 - Ready Card 0 Degrees
 // 2 - Rotate Card 90 Degrees to the Right
-// 3 - Green Counter +1
-// 4 - Green Counter -1
-// 5 - Red Counter +1
-// 6 - Red Counter -1
-// 7 - Ready Card 0 Degrees
+// 3 - Rotate Card 180 Degrees
+// 4 - Green Counter +1
+// 5 - Green Counter -1
+// 6 - Red Counter +1
+// 7 - Red Counter -1
+
 
 <cardfunction>
-	<label>Rotate</label>
-	<kind>MAKERIGHT180DEGREES</kind>
+	<label>Ready</label>
+	<kind>MAKERIGHT0DEGREES</kind>
+	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 
 <cardfunction>
 	<label>Spend</label>
 	<kind>MAKERIGHT90DEGREES</kind>
+</cardfunction>
+
+<cardfunction>
+	<label>Rotate</label>
+	<kind>MAKERIGHT180DEGREES</kind>
 </cardfunction>
 
 <cardfunction>
@@ -134,12 +141,6 @@
 <cardfunction><label>Red -1</label>
 	<kind>REMOVECOUNTER</kind>
 	<color>red</color>
-	<includeasbutton>yes</includeasbutton>
-</cardfunction>
-
-<cardfunction>
-	<label>Ready</label>
-	<kind>MAKERIGHT0DEGREES</kind>
 	<includeasbutton>yes</includeasbutton>
 </cardfunction>
 
