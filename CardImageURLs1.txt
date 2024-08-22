@@ -370,7 +370,7 @@ set5/tweeter.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets
 set5/zakumhelmet.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set5/zakumhelmet.jpg
 set5/zavier.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set5/zavier.jpg
 set5/zetagray.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set5/zetagray.jpg
-set6/Set6_0001.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set6/Set6_0001.jpg
+Set6/Set6_0001.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set6/Set6_0001.jpg
 set6/Set6_0002.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set6/Set6_0002.jpg
 set6/Set6_0003.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set6/Set6_0003.jpg
 set6/Set6_0004.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/Set6/Set6_0004.jpg
