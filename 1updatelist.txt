@@ -1,12 +1,11 @@
-MapleStory	08-22-24
+MapleStory	06-29-22
 plugins/MapleStory/plugininfo.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/plugininfo.txt	266970
-plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	311802
-plugins/MapleStory/version.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/version.txt	30269
-plugins/MapleStory/credits.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/credits.txt	13135
-plugins/MapleStory/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/carddata.txt	9783613
+plugins/MapleStory/pluginpreferences.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/pluginpreferences.txt	305129
+plugins/MapleStory/version.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/version.txt	33065
+plugins/MapleStory/sets/carddata.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/carddata.txt	7105678
 plugins/MapleStory/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/general/cardback.jpg	1325763
 plugins/MapleStory/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sets/setimages/general/spawned.jpg	-12880
-plugins/MapleStory/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/CardImageURLs1.txt	5307726
+plugins/MapleStory/CardImageURLs1.txt	https://raw.githubusercontent.com/wishmstr/MapleStory/main/CardImageURLs1.txt	4075800
 plugins/MapleStory/decks/Japanese_Starter_01_MW.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Japanese_Starter_01_MW.dek	275541
 plugins/MapleStory/decks/Japanese_Starter_02_BT.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Japanese_Starter_02_BT.dek	269668
 plugins/MapleStory/decks/Starter_Deck_01_Thief.dek	https://raw.githubusercontent.com/wishmstr/MapleStory/main/decks/Starter_Deck_01_Thief.dek	225903
@@ -18,12 +17,11 @@ plugins/MapleStory/sounds/turn.wav	https://raw.githubusercontent.com/wishmstr/Ma
 plugins/MapleStory/sounds/wait.wav	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sounds/wait.wav	-109564
 plugins/MapleStory/sounds/phase.wav	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sounds/phase.wav	-49397
 plugins/MapleStory/sounds/spawncard.wav	https://raw.githubusercontent.com/wishmstr/MapleStory/main/sounds/spawncard.wav	-34653
-plugins/MapleStory/packs/packdefinitions1.xml	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/packdefinitions1.xml	294983
+plugins/MapleStory/packs/packdefinitions1.xml	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/packdefinitions1.xml	246577
 plugins/MapleStory/packs/pack.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/pack.jpg	1325763
 plugins/MapleStory/packs/set2.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set2.jpg	135658
 plugins/MapleStory/packs/set3.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set3.jpg	150492
 plugins/MapleStory/packs/set4.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set4.jpg	151424
 plugins/MapleStory/packs/set5.jpg	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set5.jpg	143578
-plugins/MapleStory/packs/set6.png	https://raw.githubusercontent.com/wishmstr/MapleStory/main/packs/set6.png	-963180
 CardURLFiles:
 CardImageURLs1.txt
