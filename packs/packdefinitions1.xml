@@ -100,4 +100,25 @@
 </chance>
 </pack>
 
+<pack>
+<packtitle>Set 6 Booster</packtitle>
+<packimage>set6.png</packimage>
+<packformat>standard</packformat>
+<packkind>booster</packkind>
+<packdoubles>no</packdoubles>
+
+<packcommoncrit>
+	<field>Set</field>
+	<eval>IS</eval>
+	<data>Set6</data>
+</packcommoncrit>
+
+<chance>
+<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+<kind><qty>2</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+<kind><qty>6</qty><crit><field>Rarity</field><eval>IS</eval><data>C</data></crit></kind>
+</chance>
+</pack>
+
+
 </packdefinitions>
